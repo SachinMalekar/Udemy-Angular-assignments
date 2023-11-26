@@ -1,0 +1,32 @@
+{
+  "hash": "47e0a40d",
+  "browserHash": "bd4b06e3",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "0c642895",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "e79aed1c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "0d0d745a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-25DVTC5M": {
+      "file": "chunk-25DVTC5M.js"
+    },
+    "chunk-ASIXL4HZ": {
+      "file": "chunk-ASIXL4HZ.js"
+    }
+  }
+}
